@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Event 1",
+    "desc": "lorem ipsim",
+    "date": "April 02, 2020",
+    "latitude": -7.782984,
+    "longitude": 110.367035
+  },
+  {
+    "id": 2,
+    "name": "Event 2",
+    "desc": "lorem ipsim",
+    "date": "April 02, 2020",
+    "latitude": -7.792943,
+    "longitude": 110.324924
+  },
+  {
+    "id": 3,
+    "name": "Event 3",
+    "desc": "lorem ipsim",
+    "date": "April 02, 2020",
+    "latitude": -7.77471,
+    "longitude": 110.321818
+  },
+  {
+    "id": 4,
+    "name": "Event 4",
+    "desc": "lorem ipsim",
+    "date": "April 02, 2020",
+    "latitude": -7.773614,
+    "longitude": 110.364394
+  },
+  {
+    "id": 5,
+    "name": "Event 5",
+    "desc": "lorem ipsim",
+    "date": "April 02, 2020",
+    "latitude": -7.798115,
+    "longitude": 110.350244
+  }
+]
